@@ -13,7 +13,7 @@ import {
   setStore,
   updateStore,
   useMemoryStorage
-} from '../lib/metamatic';
+} from '../lib/metamatic-core';
 
 let responses = [];
 let value;
